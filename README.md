@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Hayrullah
 
-<!--
-**Hayrullah-Gayiran/Hayrullah-Gayiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer - Computer Science Student at University Centre Leeds
 
-Here are some ideas to get you started:
+ - Currently studying Level 5 Computer Science
+ - Building my professional portfolio as part of my Employability Skills module
+ - Currently learning: Git workflows, Agile project management, and web development
+ - Open to junior developer opportunities and internships
+ - How to reach me: hayrulahtg@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Tech I'm Working With
+ - Python | HTML | CSS | JavaScript
+ - GitHub | VS Code | Agile/Kanban
+
+"Every expert was once a beginner."
